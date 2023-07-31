@@ -1,4 +1,5 @@
 ## Adult Income Classification Using Machine Learning Classifiers - Jupyter Notebook
+<img align="right" alt="Coding" width="170" src="https://w7.pngwing.com/pngs/560/77/png-transparent-socioeconomic-status-income-social-class-in-colombia-household-renting-level-logo-pollution-adjusted-gross-income-thumbnail.png">
 
 This Jupyter Notebook is designed to perform a classification task on the Adult Income dataset. The goal is to predict whether an individual earns more than $50K per year or not based on various features such as age, education, occupation, and more. The notebook uses several machine learning classifiers to achieve this task.
 
